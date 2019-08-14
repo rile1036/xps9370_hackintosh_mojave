@@ -53,8 +53,11 @@ Not Issue
     - Mac OS Install (디스크 유틸리티에서 디스크는 APFS / GUID 형식으로 포맷)
 
   xps 9370은 설치를 하는 도중 2 Minutes에서 remaining 경우가 생길 것입니다.
+  
   저는 이를 무시하고 계속 해서 다음으로 진행하니 성공적으로 완료되었습니다.
+  
   sleep 과 speed step 관련해서 문제가 없었습니다. (speed step은 Intel Power Gadget 이용 - 클럭 0.5~1.0 정상)
+  
   WLAN은 직접 TP-Link 드라이버를 받아 실행시키면 자동으로 작동됩니다.
   
    4. Clover 설치
