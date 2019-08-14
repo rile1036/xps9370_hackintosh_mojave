@@ -60,7 +60,9 @@ Not Issue
   
   WLAN은 직접 TP-Link 드라이버를 받아 실행시키면 자동으로 작동됩니다.
   
-   4. Clover 설치
+  
+  
+  4. Clover 설치
    
      - 설치한 SSD에 클로버 부트로더를 이전과 같은 방식으로 설치합니다.
      - SSD EFI 영역에 CLOVER 폴더를 대체합니다. (이를 진행 시 USB 없이 부팅이 가능합니다)
