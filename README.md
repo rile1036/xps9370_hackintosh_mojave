@@ -6,7 +6,7 @@ Hardware
  - model :  XPS 13 9370
  - CPU : i5 8th
  - RAM : 16GB
- - SSD : Samsung PM961 512GB
+ - SSD : Samsung PM961 512GB (기존에 있던 SSD는 PM981이였고 이는 문제가 있어 PM961로 변경)
  - DP : FHD
  - WLAN : TP-Link wn725 3v
 
