@@ -9,7 +9,6 @@ Hardware
  - SSD : Samsung PM961 512GB
  - DP : FHD
  - WLAN : TP-Link wn725 3v
-  (변경사항 : 기존 PM981은 설치 문제가 있어 PM961로 변경)
 
  Software
  - OS : 10.14.6 Mojave
